@@ -16,7 +16,7 @@ Before you begin, ensure you have the following dependencies installed:
 
 ### Installation
 Clone the repository to your local machine:
-``` git clone https://github.com/your-username/fuel-efficiency.git ```
+``` git clone https://github.com/OpenGenus/fuel-efficiency.git ```
 
 ### Install the required Python libraries:
 ``` pip install numpy pandas scikit-learn matplotlib seaborn ```
